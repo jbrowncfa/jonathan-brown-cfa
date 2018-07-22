@@ -1,2 +1,1 @@
-# jonathan-brown-cfa
-HTML resume
+# resume
